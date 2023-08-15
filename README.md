@@ -1,4 +1,4 @@
-# Microbit Extension: Emakefun I2c Device
+# Microbit Extension: Emakefun I2C Device
 
 ## Supported targets
 
