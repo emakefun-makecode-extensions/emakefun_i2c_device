@@ -1,4 +1,4 @@
-namespace emakefun {
+namespace Emakefun {
   export class I2cDevice {
     private readonly i2c_address_: number = undefined
 
