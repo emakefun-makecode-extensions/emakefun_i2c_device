@@ -9,7 +9,7 @@ This project implements a MakeCode extension for Microbit facilitate the use of 
 ```block
 let device = new emakefun.I2cDevice(0x30)
 
-basic.showNumber(device.readByte(0x0))
+basic.showNumber(device.i2cReadUint8From(0x0))
 ```
 
 ## Supported targets
